@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches: 5.31.0)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/pinhaking/Algum/releases/download/8/youtube-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.13.41 (patches: 5.31.1)",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/pinhaking/Algum/releases/download/9/youtube-revanced-magisk-v20.13.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/pinhaking/Algum/update/build.md"
 }
