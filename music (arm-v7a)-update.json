@@ -1,6 +1,6 @@
 {
-  "version": "v8.31.51 (patches: 5.33.0)",
-  "versionCode": 12,
-  "zipUrl": "https://github.com/pinhaking/Algum/releases/download/12/music-revanced-magisk-v8.31.51-arm-v7a.zip",
+  "version": "v8.33.53 (patches: 5.34.0)",
+  "versionCode": 13,
+  "zipUrl": "https://github.com/pinhaking/Algum/releases/download/13/music-revanced-magisk-v8.33.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/pinhaking/Algum/update/build.md"
 }
